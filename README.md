@@ -12,7 +12,7 @@ The data and code accompany the paper titled "Human injury-based safety decision
 This paper explores whether, how, and to what extent the human injury-based decisions of automated vehicles (AVs) can enhance human protection in pursuing improved traffic safety.
 Understanding the safety protection in road traffic follows a “top-down” process involving the traffic, vehicle, and human levels (Fig. a-c). Correspondingly, we propose a novel framework of an injury risk mitigation-based (IRM) decision-making algorithm that makes safety decisions towards minimal injury risk, which incorporates a “bottom-up” process (Fig. d-f).
 
-![Figure 1](image\Figure 1.png)
+![Figure 1](image\Figure 1.png width="100px")
 
 
 
