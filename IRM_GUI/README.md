@@ -12,7 +12,7 @@ A Python-based GUI that helps explain the IRM algorithm and visualizes the decis
 
 <div align=center>
 <img src="image\logo.png" alt="logo" width=1000" />
-<div>
+</div>
 
 
 ### Usage
@@ -24,6 +24,6 @@ A Python-based GUI that helps explain the IRM algorithm and visualizes the decis
 
 The decision process and optimization results of the IRM algorithm is shown automatically.
 
-  <div align=center>
+<div align=center>
 <img src="image\logo.png" alt="logo" width="250" />
-<div>
+</div>
