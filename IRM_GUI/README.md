@@ -10,8 +10,9 @@ State Key Lab of Automotive Safety and Energy, School of Vehicle and Mobility, T
 
 A Python-based GUI that helps explain the IRM algorithm and visualizes the decision process and results is provided.
 
-<img src="image\logo.png" alt="logo" style="zoom:25%;" />
-
+<div align=center>
+<img src="image\logo.png" alt="logo" width=1000" />
+<div>
 
 
 ### Usage
@@ -23,4 +24,6 @@ A Python-based GUI that helps explain the IRM algorithm and visualizes the decis
 
 The decision process and optimization results of the IRM algorithm is shown automatically.
 
-<img src="H:\Docu\document\清华车辆\项目\论文-损伤风险安全决策\附录代码\IRM_GUI\image\demo.png" alt="demo" style="zoom:75%;" />
+  <div align=center>
+<img src="image\logo.png" alt="logo" width="250" />
+<div>
