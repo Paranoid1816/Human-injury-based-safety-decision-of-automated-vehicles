@@ -17,7 +17,7 @@ A Python-based GUI that helps explain the IRM algorithm and visualizes the decis
 
 ### Usage
 
-1. Download the package `IRM_GUI.zip` from https://cloud.tsinghua.edu.cn/f/1cb687b8d5e44df89327/?dl=1 to a local directory;
+1. Download the package `IRM_GUI.zip` from https://cloud.tsinghua.edu.cn/f/1cb687b8d5e44df89327/?dl=1 (密码(password): IRM_algorithm) to a local directory;
 1. Unzip the files, then double click to open the `IRM_GUI/IRM_GUI.exe`;
 3. Configure input parameters, including case number, application scenario, and activation time;
 4. Click 'Start simulation' to start the simulation.
